@@ -5,7 +5,7 @@ fornecido de 0 a 100.'''
 
 num = (input ('Informe um número para gerar a tabuada: '))
 i = 0
-for i in range(0, 100):
+for i in range(0, 101):
     mult = (num * i)
     print(num,"*", i,"=", mult)
     i = i + 1
