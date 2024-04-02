@@ -9,6 +9,3 @@ for i in range(0, 100):
     mult = (num * i)
     print(num,"*", i,"=", mult)
     i = i + 1
-    
-    
-    
